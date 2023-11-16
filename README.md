@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-John Driscoll
-jjdrisco@ucsd.edu
+John Driscoll and Driscoll John
